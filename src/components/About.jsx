@@ -23,7 +23,7 @@ export default function About() {
           </h2>
 
           <p className="text-lg text-omkaraText mb-8">
-            Founded in <span className="font-semibold">2010</span>,
+            Founded in <span className="font-semibold">2010</span> by Mrs Savitha Satish,
             Omkara Yoga Studio is dedicated to spreading authentic
             yogic practices that nurture physical wellness,
             mental clarity and spiritual balance.
